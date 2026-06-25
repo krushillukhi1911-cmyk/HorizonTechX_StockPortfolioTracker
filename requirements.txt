@@ -1,0 +1,2 @@
+# Built-in libraries used, no external dependencies required for the core application.
+# (os, csv, json, datetime, pathlib, logging are part of standard library)
